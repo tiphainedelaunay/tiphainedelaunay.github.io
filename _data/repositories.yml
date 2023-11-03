@@ -15,6 +15,7 @@ other_github_repos:
       - docopt/docopt
       - scientific-python/cookie
       - mitmproxy/pdoc
+      - astral-sh/ruff
   - name: LaTeX
     repos:
       - matze/mtheme 
