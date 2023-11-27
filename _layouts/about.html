@@ -8,7 +8,11 @@ layout: default
           <h1 class="post-title">
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}<br>{{ page.living_area }}<br>{{ site.email | mailObfuscate }}</p>
+          {% assign split_email = site.email | split: "@" %}
+          {% capture obfuscated_email %}
+              {{ split_email[0] }}@<span style="display:none">{{ split_email[1] }}</span>{{ split_email[1] }}
+          {% endcapture %}
+          <p class="desc">{{ page.subtitle }}<br>{{ page.living_area }}<br>{{ obfuscated_email }}</p>
         </header>
 
         <article>
