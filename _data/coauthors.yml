@@ -11,5 +11,9 @@
     url: https://perso.telecom-paristech.fr/ladjal/
 
 "Chouzenoux":
-  - firstname: ["Emilie"]
+  - firstname: ["Emilie", "Émilie"]
     url: https://pages.saclay.inria.fr/emilie.chouzenoux/index.html
+
+"Elvira":
+  - firstname: ["Víctor", "Victor"]
+    url: https://victorelvira.github.io
