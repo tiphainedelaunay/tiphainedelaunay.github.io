@@ -8,6 +8,9 @@ other_github_repos:
       - aimhubio/aim
       - fepegar/torchio
       - IgorSusmelj/pytorch-styleguide
+      - ENSTA-U2IS-AI/awesome-uncertainty-deeplearning
+      - IntelLabs/bayesian-torch
+      - piEsposito/blitz-bayesian-deep-learning
   - name: Python
     repos:
       - python-poetry/poetry
