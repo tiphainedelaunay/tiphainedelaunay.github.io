@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci">LTCI, Télécom Paris</a> &mdash; <a href="https://www.gehealthcare.com">GE HealthCare</a>
+subtitle: <a href="https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci">LTCI, Télécom Paris</a> &mdash; <a href="https://www.gehealthcare.com">GE HealthCare</a>
 living_area: Paris area, France
 
 profile:
