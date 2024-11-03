@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tiphainedelaunay.github.io/sitemap.xml
