@@ -1,19 +1,16 @@
-"Bloch":
-  - firstname: ["Isabelle"]
-    url: https://perso.telecom-paristech.fr/bloch/
+"Moireau":
+  - firstname: ["Philippe"]
+    url: http://www.cmap.polytechnique.fr/~philippe.moireau/index.html
 
-"Kervazo":
-  - firstname: ["Christophe"]
-    url: https://sites.google.com/view/christophekervazo/
+"Imperiale":
+  - firstname: ["Sébastien"]
+    url: https://m3disim.saclay.inria.fr/people/sebastien-imperiale/
 
-"Ladjal":
-  - firstname: ["Said", "Saïd"]
-    url: https://perso.telecom-paristech.fr/ladjal/
+"Boulakia":
+  - firstname: [Muriel]
+    url: https://boulakia.perso.math.cnrs.fr/
 
-"Chouzenoux":
-  - firstname: ["Emilie", "Émilie"]
-    url: https://pages.saclay.inria.fr/emilie.chouzenoux/index.html
+"de Buhan":
+  - firstname: ["Maya"]
+    url: https://www.imo.universite-paris-saclay.fr/~maya.de-buhan/
 
-"Elvira":
-  - firstname: ["Víctor", "Victor"]
-    url: https://victorelvira.github.io

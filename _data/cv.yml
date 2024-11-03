@@ -2,74 +2,63 @@
   type: map
   contents:
     - name: Full Name
-      value: Arnaud Quillent
+      value: Tiphaine Delaunay
     - name: Languages
-      value: French, English, Spanish
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Télécom Paris, France
-      year: Since 2022
+    - title: Ph.D
+      institution: M3DISIM, Inria & Ecole Polytechnique, France
+      year: 2020-2023
+      description:
+        - "Adaptive observers for wave equations and associated discretization: formulations and analyses"
+        - With Philippe Moireau and Sébastien Imperiale
 
     - title: Master's degree
       institution: Université de Rouen Normandie, France
       year: 2019-2020
-      description: Data science and engineering
+      description:
+        - Mathematics and applications
+        - "Thesis: 3D reconstruction from two-dimensional slices applied to medicine"
 
     - title: Master's degree in Engineering
       institution: INSA Rouen Normandie, France
       year: 2015-2020
-      description:
-        - Computer science
-        - Image processing
-        - Machine learning
-        - Deep learning
+      description: Mathematics
 
 - title: Experience
   type: time_table
   contents:
-    - title: PhD student &mdash; Engineer
-      institution: GE HealthCare, France
-      year: Since 2022
+    - title: Post-doctorate
+      institution: MONC, Inria & Institut mathématique de Bordeaux, France
+      year: since 2024
       description:
-        - Deep learning for mammography
-    - title: Research engineer
-      institution: Inria (French National Institute for Research in Digital Science and Technology)
-      year: 2021-2022
-      description:
-        - Various machine learning algorithms on MR images
-        - Work with Gustave Roussy Cancer Campus
+        - Deciphering tumor response to propranolol in angiosarcomas by mathematical modeling and data assimilation
+        - With Annabelle Collin, Christèle Etchegary and François Moisan
 
     - title: Research intern
-      institution: GE HealthCare, France
+      institution: M3DISIM, Inria & Ecole Polytechnique,, France
       year: 2020
-      description:
-        - Deep learning algorithms to detect region of interest in mammogram images
+      description: 
+        - Data assimilation by observers strategies for wave equation
+        - With Philippe Moireau and Sébastien Imperiale
 
     - title: Research intern
-      institution: Universitat Pompeu Fabra, Spain
-      year: 2019
-      description:
-        - Natural language processing (NLP)
-        - Social media analysis
+      institution: University of Dundee, Scotland
+      year: 2018
+      description: Elliptic curves and cryptography
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Mathematics
-      items: 
-        - Inverse problems
-        - Optimisation
-    - title: Deep learning
-      items:
-        - CNNs
-        - Bayesian networks
-    - title: Medical imaging
-      items:
-        - Tomography
-        - Image reconstruction
+    - Inverse problems and data assimilation
+    - Mathematical modeling with PDEs
+    - Evolution problems
+    - Carleman estimates
+    - Waves and applications
+     
 
 # - title: Other Interests
 #   type: list
