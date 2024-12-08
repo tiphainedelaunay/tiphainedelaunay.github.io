@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Ph.D
-      institution: M3DISIM, Inria & Ecole Polytechnique, France
+      institution: MΞDISIM, Inria & Ecole Polytechnique, France
       year: 2020-2023
       description:
         - "Adaptive observers for wave equations and associated discretization: formulations and analyses"
@@ -32,20 +32,20 @@
   type: time_table
   contents:
     - title: Post-doctorate
-      institution: MONC, Inria & Institut mathématique de Bordeaux, France
+      institution: MONC, Inria & Institut de Mathématique de Bordeaux, France
       year: since 2024
       description:
         - Deciphering tumor response to propranolol in angiosarcomas by mathematical modeling and data assimilation
         - With Annabelle Collin, Christèle Etchegary and François Moisan
 
-    - title: Research intern
-      institution: M3DISIM, Inria & Ecole Polytechnique,, France
+    - title: Research intern (6 months)
+      institution: MΞDISIM, Inria & Ecole Polytechnique, France
       year: 2020
       description: 
         - Data assimilation by observers strategies for wave equation
         - With Philippe Moireau and Sébastien Imperiale
 
-    - title: Research intern
+    - title: Research intern (3 months)
       institution: University of Dundee, Scotland
       year: 2018
       description: Elliptic curves and cryptography
