@@ -29,6 +29,6 @@ I am currently working on mathematical modeling and data assimilation of tumor r
 Previously, I did my PhD on observers for the wave equation under the supervision of [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/index.html) and [Sébastien Imperiale](https://m3disim.saclay.inria.fr/people/sebastien-imperiale/).
 For this project, I worked within the joint [Inria](https://www.inria.fr)-[Ecole Polytechnique](https://www.polytechnique.edu) team [MΞDISIM.](https://m3disim.saclay.inria.fr/) and was funded by the ANR [ODISSE](https://anr-odisse.univ-lyon1.fr/).
 
-Use this website to see my latest publications, my [CV](assets/monCV.pdf) and my mathematical interests!
+Use this website to see my latest publications, my [CV](assets/pdf/monCV.pdf) and my mathematical interests!
 
 
