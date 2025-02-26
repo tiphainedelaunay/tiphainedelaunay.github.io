@@ -11,6 +11,17 @@ nav_order: 2
 
 <br>
 
+
+##### Séminaire math, bio et images, 2025
+*LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France*, [URL](https://www.math.univ-paris13.fr/accueil/equipes/mbi/seminaire-de-lequipe-mbi/)
+
+<div style="line-height:10px;">&nbsp;</div>
+
+##### Séminaire de l’équipe COMMEDIA, 2025
+*Laboratoire Jacques Louis Lions, Sorbonne Université, Paris, France*, [URL](https://www.ljll.fr/event/seminaire-equipe-comedia/)
+
+<div style="line-height:10px;">&nbsp;</div>
+
 ##### Séminaire EDP de Nancy, 2024
 *Institut Élie Cartan de Lorraine, Nancy, France*
 
