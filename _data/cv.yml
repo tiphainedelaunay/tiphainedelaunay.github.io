@@ -32,8 +32,16 @@
   type: time_table
   contents:
     - title: Post-doctorate
+      institution: LAGA, Institut Galilée, Université Sorbonne Paris Nord, France
+      year: Since 2025
+      description:
+        - Ultrasound wave propagation modeling for bone-implant interface characterization
+        - With Stéphanie Chaillat, Marion Darbas and Jérémy Heleine
+
+
+    - title: Post-doctorate
       institution: MONC, Inria & Institut de Mathématique de Bordeaux, France
-      year: since 2024
+      year: 2024 - 2025
       description:
         - Deciphering tumor response to propranolol in angiosarcomas by mathematical modeling and data assimilation
         - With Annabelle Collin, Christèle Etchegaray and François Moisan

@@ -45,6 +45,14 @@ nav_order: 2
 
 <br>
 
+##### PICOF, 2025
+*Hammamet, Tunisia*, [URL](https://picof2025.sciencesconf.org/resource/page/id/10)
+
+##### SMAI, 2025
+*Carcans Maubuissons, France*, [URL](https://smai2025.math.cnrs.fr/programme/soumission/1b7ac6d3-0337-4447-967c-abfcd3cb8829/abstract.pdf)
+
+<div style="line-height:10px;">&nbsp;</div>
+
 ##### Rencontres normandes sur les aspects théoriques et numériques des EDP, 2024
 *Rouen, France*, [URL](https://r-n-edp.sciencesconf.org/resource/page/id/3)
 
@@ -79,7 +87,7 @@ nav_order: 2
 
 <br>
 
-# Poster
+# Posters
 
 <br>
 

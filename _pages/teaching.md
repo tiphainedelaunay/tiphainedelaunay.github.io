@@ -10,6 +10,12 @@ nav_order: 3
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
+
+#### Mathématiques pour ingénieurs, 2025
+*SupGalilée, France*<br>Bachelor's degree (L3)
+
+---
+
 #### Tutored interdisciplinary project, 2024
 *Master Cancer Biology of Université Bordeaux, France*<br>Master's degree (M2)
 - Creation and supervision of a project: *Mathematical modeling of the growth of spheroids in free growth and in response to a non-cytotoxic drug*
