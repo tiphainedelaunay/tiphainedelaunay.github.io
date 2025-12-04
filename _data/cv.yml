@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D
+    - title: PhD
       institution: MΞDISIM, Inria & Ecole Polytechnique, France
       year: 2020-2023
       description:
@@ -35,7 +35,7 @@
       institution: LAGA, Institut Galilée, Université Sorbonne Paris Nord, France
       year: Since 2025
       description:
-        - Ultrasound wave propagation modeling for bone-implant interface characterization
+        - Reconstruction of the Lamé parameters of elastic waves in an inclusion
         - With Stéphanie Chaillat, Marion Darbas and Jérémy Heleine
 
 

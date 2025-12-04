@@ -11,6 +11,15 @@ nav_order: 2
 
 <br>
 
+##### Séminaire MAC, 2026 (upcomming)
+*Institut de mathématiques de Toulouse, Toulouse, France*, [URL](https://indico.math.cnrs.fr/category/535/)
+
+<div style="line-height:10px;">&nbsp;</div>
+
+##### Séminaire de mathématiques appliquées, 2025
+*Laboratoire de Mathématiques Jean Leray, Nantes Université, Nantes, France*, [URL](https://www.math.sciences.univ-nantes.fr/exposes/993663)
+
+<div style="line-height:10px;">&nbsp;</div>
 
 ##### Séminaire math, bio et images, 2025
 *LAGA, Université Sorbonne Paris-Nord, Villetaneuse, France*, [URL](https://www.math.univ-paris13.fr/accueil/equipes/mbi/seminaire-de-lequipe-mbi/)

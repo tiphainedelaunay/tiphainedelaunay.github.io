@@ -24,7 +24,7 @@ Hi!
 
 I am Tiphaine, a French post-doctorate in the field of applied mathematics.
 
-I am currently working at [LAGA](https://www.math.univ-paris13.fr) on ultrasound wave propagation modeling for bone-implant interface characterization with [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/), [Marion Darbas](https://www.math.univ-paris13.fr/~darbas/) and [Jérémy Heleine](http://jeremyheleine.me/#).
+I am currently working at [LAGA](https://www.math.univ-paris13.fr) on the reconstruction of the Lamé Parameters of Elastic Waves in an inclusion with [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/), [Marion Darbas](https://www.math.univ-paris13.fr/~darbas/) and [Jérémy Heleine](http://jeremyheleine.me/#).
 
 During my first post-doctorate, I studied mathematical modeling and data assimilation of tumor response to propranolol in angiosarcomas with [Annabelle Collin](http://annabellecollin.perso.math.cnrs.fr/), [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/) and [François Moisan](https://www.bricbordeaux.com/people/francois-moisan/) in the joint [Inria](https://www.inria.fr)-[IMB](https://www.math.u-bordeaux.fr/imb/spip.php) project team [MONC](https://team.inria.fr/monc/). 
 

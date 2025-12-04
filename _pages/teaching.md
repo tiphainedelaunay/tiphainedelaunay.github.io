@@ -11,8 +11,8 @@ nav_order: 3
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-#### Mathématiques pour ingénieurs, 2025
-*SupGalilée, France*<br>Bachelor's degree (L3)
+#### Mathematics for engineers, 2025
+*Sup Galilée, France*<br>Bachelor's degree (L3)
 
 ---
 
