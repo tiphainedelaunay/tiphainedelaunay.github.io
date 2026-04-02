@@ -11,7 +11,16 @@ nav_order: 2
 
 <br>
 
-##### Séminaire MAC, 2026 (upcomming)
+##### Séminaire commun LJLL/LAGA/MAP5, 2026 (à venir) 
+*Laboratoire Jacques Louis Lions, Paris, France*
+<div style="line-height:10px;">&nbsp;</div>
+
+##### Séminaire Équations aux dérivées partielles, 2026 (à venir) 
+*Institut de Recherche Mathématique Avancée, Strasbourg, France*, [URL](https://irma.math.unistra.fr/seminaires/seminaire-equations-aux-derivees-partielles.html)
+
+<div style="line-height:10px;">&nbsp;</div>
+
+##### Séminaire MAC, 2026 
 *Institut de mathématiques de Toulouse, Toulouse, France*, [URL](https://indico.math.cnrs.fr/category/535/)
 
 <div style="line-height:10px;">&nbsp;</div>
