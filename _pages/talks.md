@@ -11,11 +11,12 @@ nav_order: 2
 
 <br>
 
-##### Séminaire commun LJLL/LAGA/MAP5, 2026 (à venir) 
-*Laboratoire Jacques Louis Lions, Paris, France*
+##### Seminar on mathematical modeling in life sciences and health
+*Laboratoire Jacques Louis Lions, Paris, France*, [URL](https://sites.google.com/view/seminaire-modelisation/accueil)
+
 <div style="line-height:10px;">&nbsp;</div>
 
-##### Séminaire Équations aux dérivées partielles, 2026 (à venir) 
+##### Séminaire Équations aux dérivées partielles, 2026 
 *Institut de Recherche Mathématique Avancée, Strasbourg, France*, [URL](https://irma.math.unistra.fr/seminaires/seminaire-equations-aux-derivees-partielles.html)
 
 <div style="line-height:10px;">&nbsp;</div>

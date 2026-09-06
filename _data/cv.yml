@@ -31,9 +31,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Maîtresse de conférences (equivalent Assistant Professor)
+      institution: Laboratoire de Mathématiques de Versailles, Université de Versailles Saint-Quentin-en-Yvelines
+      year: since 2026
+
     - title: Post-doctorate
       institution: LAGA, Institut Galilée, Université Sorbonne Paris Nord, France
-      year: Since 2025
+      year: 2025 - 2026
       description:
         - Reconstruction of Lamé parameters using internal observations of the displacement field in linear elasticity
         - With Marion Darbas and Jérémy Heleine

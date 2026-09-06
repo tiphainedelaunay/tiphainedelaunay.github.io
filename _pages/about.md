@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.math.univ-paris13.fr/">LAGA, Institut Galilée</a> &mdash; <a href="https://www.univ-spn.fr/">Université Sorbonne Paris Nord</a>
-living_area: Paris area
+subtitle: <a href="https://lmv.math.cnrs.fr/">LMV</a> &mdash; <a href="https://www.uvsq.fr/">Université de Versailles Saint-Quentin-en-Yvelines</a>
+# living_area: Paris area
 
 profile:
   align: left
@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I am Tiphaine, a French post-doctorate in the field of applied mathematics.
+I am Tiphaine, a French *Maîtresse de conférences* (equivalent assistant professor) at [Université de Versailles Saint-Quentin-en-Yvelines](https://www.uvsq.fr/) in the field of applied mathematics.
 
-I am currently working at [LAGA](https://www.math.univ-paris13.fr) on numerical reconstruction of Lamé parameters using internal observations of the displacement field in linear elasticity. This research is carried out in collaboration with [Marion Darbas](https://www.math.univ-paris13.fr/~darbas/) and [Jérémy Heleine](http://jeremyheleine.me).
+Before, I worked at [LAGA](https://www.math.univ-paris13.fr) on numerical reconstruction of Lamé parameters using internal observations of the displacement field in linear elasticity. This research is carried out in collaboration with [Marion Darbas](https://www.math.univ-paris13.fr/~darbas/) and [Jérémy Heleine](http://jeremyheleine.me).
 
 During my first post-doctorate, I studied mathematical modeling and data assimilation of tumor response to propranolol in angiosarcomas with [Annabelle Collin](http://annabellecollin.perso.math.cnrs.fr/), [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/) and [François Moisan](https://www.bricbordeaux.com/people/francois-moisan/) in the joint [Inria](https://www.inria.fr)-[IMB](https://www.math.u-bordeaux.fr/imb/spip.php) project team [MONC](https://team.inria.fr/monc/). 
 
